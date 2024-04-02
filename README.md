@@ -16,7 +16,7 @@ Check out my [portfolio](https://github.com/eaeidsath/React-Portfolio) to get an
 - AI Applications
 
 ## 🧙 My hobbies outside of coding
-- Video and TTRPG games
+- Video games and TTRPGs
 - Costume making
 - Drawing
-- Digital pet sites
+- Virtual pet sites
