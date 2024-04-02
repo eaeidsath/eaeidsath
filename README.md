@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to my GitHub!
 
-<!--
-**eaeidsath/eaeidsath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my [portfolio](https://github.com/eaeidsath/React-Portfolio) to get an overview of my work and experince.
 
-Here are some ideas to get you started:
+## ⚡ Proficiencies
+- HTML, CSS, JavaScipt
+- Express.js
+- React.js
+- Database (SQL, MongoDB)
+- Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- MERN
+- Redux
+- PWAs
+- AI Applications
+
+## 🧙 My hobbies outside of coding
+- Video and TTRPG games
+- Costume making
+- Drawing
+- Digital pet sites
