@@ -4,8 +4,8 @@ Check out my [portfolio](https://github.com/eaeidsath/React-Portfolio) to get an
 
 ## ⚡ Proficiencies
 - HTML, CSS, JavaScipt
-- Express.js
-- React.js
+- Express & Node
+- React
 - Database (SQL, MongoDB)
 - Object-Oriented Programming
 
