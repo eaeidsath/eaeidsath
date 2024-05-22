@@ -11,7 +11,7 @@ Check out my [portfolio](https://github.com/eaeidsath/React-Portfolio) to get an
 
 ## 🌱 I’m currently learning
 - Next JS
-- React
+- Typescript
 - PostgreSQL
 - AI Applications
 
