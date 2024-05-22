@@ -10,9 +10,9 @@ Check out my [portfolio](https://github.com/eaeidsath/React-Portfolio) to get an
 - Object-Oriented Programming
 
 ## 🌱 I’m currently learning
-- MERN
-- Redux
-- PWAs
+- Next JS
+- React
+- PostgreSQL
 - AI Applications
 
 ## 🧙 My hobbies outside of coding
